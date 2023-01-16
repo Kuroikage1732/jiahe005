@@ -16,6 +16,8 @@ function typing() {
 }
 
 typing()
+
+// From https://github.com/hsxyhao/gridea-theme-next/blob/master/assets/media/js/cool.js
 var binft = function (r) {
     function t() {
         return b[Math.floor(Math.random() * b.length)]
