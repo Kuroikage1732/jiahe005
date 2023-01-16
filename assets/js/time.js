@@ -30,6 +30,7 @@ function time() {
 
     document.querySelector('.time_econd').innerHTML= h + ":" + m;
     document.querySelector('.time_moon').innerHTML= M + "月" + d + "日";
+    document.querySelector('#copyright_year').innerHTML = y
     t = setTimeout(time, 1000);
 }
 

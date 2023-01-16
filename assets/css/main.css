@@ -212,12 +212,15 @@
     color: #000;
 }
 
-.copy p a {
+#copyright_name {
     transition: all .5s;
+    color: #666;
+    text-decoration: none
 }
 
-.copy p a:hover {
+#copyright_name:hover {
     text-shadow: 2px 1px 0 #fff;
+    color: skyblue;
 }
 
 .copy p {

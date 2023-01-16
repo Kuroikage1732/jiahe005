@@ -39,15 +39,6 @@ button {
     cursor: pointer
 }
 
-a {
-    color: #666;
-    text-decoration: none
-}
-
-a:hover {
-    color: skyblue;
-}
-
 button,
 input {
     font-family: Microsoft YaHei, Heiti SC, tahoma, arial, Hiragino Sans GB, "\5B8B\4F53", sans-serif
